@@ -12,3 +12,6 @@ console.log('Vinny é maior de idade?', souMaiorDeIdade);
 
 const mariaEhMenor = idadeMaria < 18;
 console.log('Maria é menor de idade?', mariaEhMenor);   
+
+const saoDeiferentes = idadeVinny !== idadeMaria;
+console.log('São diferentes?', saoDeiferentes); 
